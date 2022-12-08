@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1c657a8-62de-37b1-3d81-e9cf64ae2f35": {
+      "ProjectGuid": "d1c657a8-62de-37b1-3d81-e9cf64ae2f35",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "9c471868-1ee1-9398-d24f-59fc3164567c": {
+      "ProjectGuid": "9c471868-1ee1-9398-d24f-59fc3164567c",
+      "DisplayName": "Unity.PlasticSCM.Editor",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "e9ff95bb-8edf-acd3-f317-438aa4f77dd4": {
+      "ProjectGuid": "e9ff95bb-8edf-acd3-f317-438aa4f77dd4",
+      "DisplayName": "Unity.Timeline.Editor",
+      "ColorIndex": 2
+    },
+    "e45c4a53-fb41-a350-453d-cde610322ed0": {
+      "ProjectGuid": "e45c4a53-fb41-a350-453d-cde610322ed0",
+      "DisplayName": "Unity.Services.Core.Internal",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
